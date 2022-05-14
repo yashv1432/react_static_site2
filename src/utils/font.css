@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Gilroy_Bold";
+  src: local(""), url("./fonts/Gilroy/Gilroy-Bold.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Gilroy_Extra_Bold";
+  src: local(""), url("./fonts/Gilroy/Gilroy-ExtraBold.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Gilroy_Semibold";
+  src: local("body1"),
+    url("./fonts/Gilroy/Gilroy-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Gilroy_Regular";
+  src: local("body1"),
+    url("./fonts/Gilroy/Gilroy-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Gilroy_Light";
+  src: local("body1"), url("./fonts/Gilroy/Gilroy-Light.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Gilroy_Medium";
+  src: local("body1"),
+    url("./fonts/Gilroy/Gilroy-Medium.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Playfair_Semibold";
+  src: local("body1"),
+    url("./fonts/PlayfairDisplay/PlayfairDisplay-SemiBold.ttf")
+      format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Playfair_Bold";
+  src: local("body1"),
+    url("./fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Playfair_Extrabold";
+  src: local("body1"),
+    url("./fonts/PlayfairDisplay/PlayfairDisplay-ExtraBold.ttf")
+      format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Bebas_Neue";
+  src: local("body1"),
+    url("./fonts/Bebas_Neue/BebasNeue-Regular.ttf")
+      format("truetype");
+  font-weight: normal;
+}
+.font-60 {
+  font-weight: 60px;
+  line-height: 70.31px;
+}
+.font-44 {
+  font-weight: 44px;
+  line-height: 51.56px;
+}
+.font-800 {
+  font-weight: 800;
+  line-height: 180px;
+}
+.fontSize-38 {
+  font-size: 38px;
+  line-height: 45px;
+}

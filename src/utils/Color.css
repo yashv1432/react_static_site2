@@ -1,0 +1,66 @@
+/* Normal Colors */
+.Background-dark-blue{
+ background-color: #102754 !important;
+}
+.dark-blue-color{
+  color: #102754;
+}
+.Purple{
+ color: #453cc9;
+}
+.LightBlue{
+ color: #22aff1;
+}
+.GreyWhite{
+  color: #d4e8ff;
+}
+.GoldenYellow{
+ color: #ffc100;
+}
+
+/* Normal Colors */
+
+/* Gradient Color Css */
+
+.PurpleGradientRight {
+    background: linear-gradient(to right, #837aff, #453cc9);
+  }
+  
+.PurpleGradientBottom {
+    background: linear-gradient(to Bottom, #837aff, #453cc9);
+  }
+  
+.BlueGradientRight {
+    background: linear-gradient(to right, #52c9fa, #009ee8);
+  }
+  
+.BlueGradientBottom {
+    background: linear-gradient(to Bottom, #52c9fa, #009ee8);
+  }
+  
+.YellowGradient {
+    background: linear-gradient(to Bottom, #ffc100, #e8af00);
+  }
+.shape1{
+  background: linear-gradient(180deg, rgba(250, 0, 255, 0.9) 0%, rgba(250, 0, 255, 0.6) 100%);
+}
+.shape2{
+  background: linear-gradient(145.76deg, #FFC100 14%, #E8AF00 97.7%);
+}
+.shape3{
+  background: linear-gradient(137.38deg, #D4E8FF 13.98%, rgba(177, 214, 255, 0.85) 86.4%);
+}
+.shape4{
+  background: linear-gradient(191.55deg, #62C9FA 4.07%, #009EE8 92.73%);
+}
+.shape5{
+  background: linear-gradient(180deg, #453CC9 0%, #837AFF 100%);
+}
+.yellow-btn{
+  background: linear-gradient(180deg, #FFC100 0%, #E8AF00 100%)
+}
+/* Gradient Colors */
+
+.White{
+  color: #fff;
+}
